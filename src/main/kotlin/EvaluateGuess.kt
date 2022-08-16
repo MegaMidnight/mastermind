@@ -18,5 +18,3 @@ fun main() {
     evaluateGuess("AAAF", "ABCA")
     evaluateGuess("ABCA", "AAAF")
 }
-
-
